@@ -1,7 +1,7 @@
 [
 {
 "brand": "Abarth",
-"models":[
+"models": [
 "124 Spider",
 "500",
 "Grande Punto",
@@ -11,7 +11,7 @@
 },
 {
 "brand": "Aixam",
-"models":[
+"models": [
 "City",
 "Coupe",
 "Crossline",
@@ -23,7 +23,7 @@
 },
 {
 "brand": "Alfa Romeo",
-"models":[
+"models": [
 "145",
 "146",
 "147",
@@ -50,20 +50,20 @@
 },
 {
 "brand": "Alpina",
-"models":[
+"models": [
 "Sonstige"
 ]
 },
 {
 "brand": "Alpine",
-"models":[
+"models": [
 "A110",
 "Sonstige"
 ]
 },
 {
 "brand": "Aston Martin",
-"models":[
+"models": [
 "DB7",
 "DB9",
 "DBS",
@@ -75,7 +75,7 @@
 },
 {
 "brand": "Audi",
-"models":[
+"models": [
 "100",
 "80",
 "A1",
@@ -102,14 +102,14 @@
 },
 {
 "brand": "Austin",
-"models":[
+"models": [
 "Healey",
 "Sonstige"
 ]
 },
 {
 "brand": "Bentley",
-"models":[
+"models": [
 "Arnage",
 "Continental",
 "Sonstige"
@@ -117,7 +117,7 @@
 },
 {
 "brand": "BMW",
-"models":[
+"models": [
 "1er-Reihe",
 "2002",
 "2er-Reihe",
@@ -147,19 +147,19 @@
 },
 {
 "brand": "British Leyland",
-"models":[
+"models": [
 "Sonstige"
 ]
 },
 {
 "brand": "Buick",
-"models":[
+"models": [
 "Sonstige"
 ]
 },
 {
 "brand": "Cadillac",
-"models":[
+"models": [
 "ATS",
 "BLS",
 "CTS",
@@ -176,7 +176,7 @@
 },
 {
 "brand": "Casalini",
-"models":[
+"models": [
 "M14",
 "Sulky",
 "Sonstige"
@@ -184,14 +184,14 @@
 },
 {
 "brand": "Caterham",
-"models":[
+"models": [
 "Seven",
 "Sonstige"
 ]
 },
 {
 "brand": "Chevrolet / Daewoo",
-"models":[
+"models": [
 "Korando",
 "Musso",
 "Nexia",
@@ -201,7 +201,7 @@
 },
 {
 "brand": "Chevrolet",
-"models":[
+"models": [
 "Alero",
 "Aveo",
 "Blazer",
@@ -230,7 +230,7 @@
 },
 {
 "brand": "Chrysler",
-"models":[
+"models": [
 "300 C",
 "300 M",
 "Crossfire",
@@ -247,7 +247,7 @@
 },
 {
 "brand": "Citroën",
-"models":[
+"models": [
 "2CV",
 "AX",
 "BX",
@@ -290,14 +290,14 @@
 },
 {
 "brand": "Corvette",
-"models":[
+"models": [
 "Corvette",
 "Sonstige"
 ]
 },
 {
 "brand": "Cupra",
-"models":[
+"models": [
 "Ateca",
 "Born",
 "Formentor",
@@ -307,7 +307,7 @@
 },
 {
 "brand": "Dacia",
-"models":[
+"models": [
 "Dokker",
 "Duster",
 "Jogger",
@@ -320,7 +320,7 @@
 },
 {
 "brand": "Daihatsu",
-"models":[
+"models": [
 "Charade",
 "Copen",
 "Cuore",
@@ -333,7 +333,7 @@
 },
 {
 "brand": "Dodge",
-"models":[
+"models": [
 "Avenger",
 "Caliber",
 "Challenger",
@@ -347,7 +347,7 @@
 },
 {
 "brand": "DS Automobiles",
-"models":[
+"models": [
 "DS 3",
 "DS 4",
 "DS 5",
@@ -356,11 +356,8 @@
 ]
 },
 {
-"brand": "Eli",
-"models":[
-"Zero",
-"Ferrari",
-"models":[
+"brand": "Ferrari",
+"models": [
 "308",
 "348",
 "360",
@@ -385,7 +382,7 @@
 },
 {
 "brand": "Fiat",
-"models":[
+"models": [
 "124 Spider",
 "500",
 "500 E",
@@ -423,7 +420,7 @@
 },
 {
 "brand": "Ford",
-"models":[
+"models": [
 "B-MAX",
 "C-MAX",
 "Cougar",
@@ -457,20 +454,20 @@
 },
 {
 "brand": "GMC",
-"models":[
+"models": [
 "Andere",
 "Sonstige"
 ]
 },
 {
 "brand": "Graf Carello",
-"models":[
+"models": [
 "Sonstige"
 ]
 },
 {
 "brand": "Honda",
-"models":[
+"models": [
 "Accord",
 "CR-V",
 "CR-Z",
@@ -492,14 +489,14 @@
 },
 {
 "brand": "Hummer",
-"models":[
+"models": [
 "Hummer",
 "Sonstige"
 ]
 },
 {
 "brand": "Hyundai",
-"models":[
+"models": [
 "Accent",
 "Atos",
 "Bayon",
@@ -536,7 +533,7 @@
 },
 {
 "brand": "Infiniti",
-"models":[
+"models": [
 "EX",
 "FX",
 "M",
@@ -547,13 +544,12 @@
 "QX30",
 "QX70",
 "Isuzu",
-"models":[
 "Sonstige"
 ]
 },
 {
 "brand": "IVECO",
-"models":[
+"models": [
 "Daily",
 "Massif",
 "Sonstige"
@@ -561,13 +557,13 @@
 },
 {
 "brand": "JAC",
-"models":[
+"models": [
 "Sonstige"
 ]
 },
 {
 "brand": "Jaguar",
-"models":[
+"models": [
 "Daimler",
 "E-Pace",
 "F-Pace",
@@ -588,7 +584,7 @@
 },
 {
 "brand": "Jeep",
-"models":[
+"models": [
 "Avenger",
 "CJ",
 "Cherokee",
@@ -604,7 +600,7 @@
 },
 {
 "brand": "KIA",
-"models":[
+"models": [
 "Carens",
 "Carnival",
 "Ceed",
@@ -629,14 +625,14 @@
 },
 {
 "brand": "KTM",
-"models":[
+"models": [
 "X-Bow",
 "Sonstige"
 ]
 },
 {
 "brand": "Lada",
-"models":[
+"models": [
 "Taiga",
 "Vesta",
 "Sonstige"
@@ -644,7 +640,7 @@
 },
 {
 "brand": "Lamborghini",
-"models":[
+"models": [
 "Aventador",
 "Diablo",
 "Gallardo",
@@ -655,7 +651,7 @@
 },
 {
 "brand": "Lancia",
-"models":[
+"models": [
 "Dedra",
 "Delta",
 "Flavia",
@@ -672,7 +668,7 @@
 },
 {
 "brand": "Land Rover",
-"models":[
+"models": [
 "Defender",
 "Discovery",
 "Discovery Sport",
@@ -686,7 +682,7 @@
 },
 {
 "brand": "Lexus",
-"models":[
+"models": [
 "CT",
 "ES",
 "GS",
@@ -698,14 +694,13 @@
 "RX",
 "UX",
 "Ligier",
-"models":[
 "JS",
 "Sonstige"
 ]
 },
 {
 "brand": "Lincoln",
-"models":[
+"models": [
 "Continental",
 "Town Car",
 "Sonstige"
@@ -713,7 +708,7 @@
 },
 {
 "brand": "Lotus",
-"models":[
+"models": [
 "Elise",
 "Esprit",
 "Europa",
@@ -723,16 +718,13 @@
 },
 {
 "brand": "Mahindra",
-"models":[
+"models": [
 "Sonstige"
 ]
 },
 {
-"brand": "MAN",
-"models":[
-"TGE",
-"Maserati",
-"models":[
+"brand": "Maserati",
+"models": [
 "3200 GT",
 "Coupé",
 "Ghibli",
@@ -746,10 +738,14 @@
 },
 {
 "brand": "Maybach",
-"models":[
+"models": [
 "Maybach",
-"Mazda",
-"models":[
+"Sonstige"
+]
+},
+{
+"brand": "Mazda",
+"models": [
 "121",
 "323",
 "626",
@@ -780,7 +776,7 @@
 },
 {
 "brand": "McLaren",
-"models":[
+"models": [
 "600LT",
 "650S",
 "MP4-12C",
@@ -789,7 +785,7 @@
 },
 {
 "brand": "Mercedes-Benz",
-"models":[
+"models": [
 "190",
 "A-Klasse",
 "AMG GT",
@@ -834,14 +830,14 @@
 },
 {
 "brand": "Mercury",
-"models":[
+"models": [
 "Grand Marquis",
 "Sonstige"
 ]
 },
 {
 "brand": "MG",
-"models":[
+"models": [
 "EHS",
 "MG",
 "MG F",
@@ -856,7 +852,7 @@
 },
 {
 "brand": "Microcar",
-"models":[
+"models": [
 "DUE",
 "M.GO",
 "M8",
@@ -865,7 +861,7 @@
 },
 {
 "brand": "MINI",
-"models":[
+"models": [
 "Cabrio",
 "Clubman",
 "Countryman",
@@ -878,7 +874,7 @@
 },
 {
 "brand": "Mitsubishi",
-"models":[
+"models": [
 "3000",
 "ASX",
 "Attrage",
@@ -900,7 +896,7 @@
 },
 {
 "brand": "Morgan",
-"models":[
+"models": [
 "Morgan 4/4",
 "Morgan Aero 8",
 "Morgan Roadster",
@@ -911,7 +907,7 @@
 },
 {
 "brand": "Nissan",
-"models":[
+"models": [
 "100 NX",
 "200 SX",
 "300 ZX",
@@ -947,7 +943,7 @@
 },
 {
 "brand": "Opel",
-"models":[
+"models": [
 "Adam",
 "Agila",
 "Ampera",
@@ -981,7 +977,7 @@
 },
 {
 "brand": "Peugeot",
-"models":[
+"models": [
 "1007",
 "106",
 "107",
@@ -1020,7 +1016,7 @@
 },
 {
 "brand": "Polestar",
-"models":[
+"models": [
 "2",
 "3",
 "Sonstige"
@@ -1028,7 +1024,7 @@
 },
 {
 "brand": "Pontiac",
-"models":[
+"models": [
 "Firebird",
 "Trans Sport",
 "Sonstige"
@@ -1036,7 +1032,7 @@
 },
 {
 "brand": "Porsche",
-"models":[
+"models": [
 "718",
 "911",
 "914",
@@ -1055,7 +1051,7 @@
 },
 {
 "brand": "Puch",
-"models":[
+"models": [
 "500",
 "Puch G",
 "Sonstige"
@@ -1063,7 +1059,7 @@
 },
 {
 "brand": "Renault",
-"models":[
+"models": [
 "Arkana",
 "Avantime",
 "Captur",
@@ -1097,7 +1093,7 @@
 },
 {
 "brand": "Rolls-Royce",
-"models":[
+"models": [
 "Ghost",
 "Phantom",
 "Sonstige"
@@ -1105,7 +1101,7 @@
 },
 {
 "brand": "Rover",
-"models":[
+"models": [
 "200",
 "600",
 "75",
@@ -1114,7 +1110,7 @@
 },
 {
 "brand": "Saab",
-"models":[
+"models": [
 "9-3",
 "9-5",
 "900",
@@ -1124,7 +1120,7 @@
 },
 {
 "brand": "Seat",
-"models":[
+"models": [
 "Alhambra",
 "Altea",
 "Altea XL",
@@ -1144,7 +1140,7 @@
 },
 {
 "brand": "Skoda",
-"models":[
+"models": [
 "Citigo",
 "Enyaq",
 "Fabia",
@@ -1163,7 +1159,7 @@
 },
 {
 "brand": "Smart",
-"models":[
+"models": [
 "crossblade",
 "forfour",
 "fortwo",
@@ -1173,7 +1169,7 @@
 },
 {
 "brand": "SsangYong",
-"models":[
+"models": [
 "Actyon",
 "Korando",
 "Kyron",
@@ -1182,8 +1178,12 @@
 "Rodius",
 "Tivoli",
 "XLV",
-"Subaru",
-"models":[
+"Sonstige"
+]
+},
+{
+"brand": "Subaru",
+"models": [
 "Forester",
 "Impreza",
 "Justy",
@@ -1201,7 +1201,7 @@
 },
 {
 "brand": "Suzuki",
-"models":[
+"models": [
 "Across",
 "Alto",
 "Baleno",
@@ -1225,7 +1225,7 @@
 },
 {
 "brand": "Tesla",
-"models":[
+"models": [
 "Model 3",
 "Model S",
 "Model X",
@@ -1236,7 +1236,7 @@
 },
 {
 "brand": "Toyota",
-"models":[
+"models": [
 "4-Runner",
 "Auris",
 "Avensis",
@@ -1270,7 +1270,7 @@
 },
 {
 "brand": "Volvo",
-"models":[
+"models": [
 "C30",
 "C70",
 "S40",
@@ -1297,7 +1297,7 @@
 },
 {
 "brand": "VW",
-"models":[
+"models": [
 "Arteon",
 "Beetle",
 "Bora",
