@@ -1,7 +1,6 @@
 [
 {
-"brand": 
-"Abarth",
+"brand": "Abarth",
 "models":[
 "124 Spider",
 "500",
@@ -11,8 +10,7 @@
 ]
 },
 {
-"brand": 
-"Aixam",
+"brand": "Aixam",
 "models":[
 "City",
 "Coupe",
@@ -24,8 +22,7 @@
 ]
 },
 {
-"brand": 
-"Alfa Romeo",
+"brand": "Alfa Romeo",
 "models":[
 "145",
 "146",
@@ -52,23 +49,20 @@
 ]
 },
 {
-"brand": 
-"Alpina",
+"brand": "Alpina",
 "models":[
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Alpine",
+"brand": "Alpine",
 "models":[
 "A110",
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Aston Martin",
+"brand": "Aston Martin",
 "models":[
 "DB7",
 "DB9",
@@ -80,8 +74,7 @@
 ]
 },
 {
-"brand": 
-"Audi",
+"brand": "Audi",
 "models":[
 "100",
 "80",
@@ -108,16 +101,14 @@
 ]
 },
 {
-"brand": 
-"Austin",
+"brand": "Austin",
 "models":[
 "Healey",
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Bentley",
+"brand": "Bentley",
 "models":[
 "Arnage",
 "Continental",
@@ -125,8 +116,7 @@
 ]
 },
 {
-"brand": 
-"BMW",
+"brand": "BMW",
 "models":[
 "1er-Reihe",
 "2002",
@@ -156,22 +146,19 @@
 ]
 },
 {
-"brand": 
-"British Leyland",
+"brand": "British Leyland",
 "models":[
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Buick",
+"brand": "Buick",
 "models":[
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Cadillac",
+"brand": "Cadillac",
 "models":[
 "ATS",
 "BLS",
@@ -188,8 +175,7 @@
 ]
 },
 {
-"brand": 
-"Casalini",
+"brand": "Casalini",
 "models":[
 "M14",
 "Sulky",
@@ -197,16 +183,14 @@
 ]
 },
 {
-"brand": 
-"Caterham",
+"brand": "Caterham",
 "models":[
 "Seven",
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Chevrolet / Daewoo",
+"brand": "Chevrolet / Daewoo",
 "models":[
 "Korando",
 "Musso",
@@ -216,8 +200,7 @@
 ]
 },
 {
-"brand": 
-"Chevrolet",
+"brand": "Chevrolet",
 "models":[
 "Alero",
 "Aveo",
@@ -246,8 +229,7 @@
 ]
 },
 {
-"brand": 
-"Chrysler",
+"brand": "Chrysler",
 "models":[
 "300 C",
 "300 M",
@@ -264,8 +246,7 @@
 ]
 },
 {
-"brand": 
-"Citroën",
+"brand": "Citroën",
 "models":[
 "2CV",
 "AX",
@@ -308,16 +289,14 @@
 ]
 },
 {
-"brand": 
-"Corvette",
+"brand": "Corvette",
 "models":[
 "Corvette",
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Cupra",
+"brand": "Cupra",
 "models":[
 "Ateca",
 "Born",
@@ -327,8 +306,7 @@
 ]
 },
 {
-"brand": 
-"Dacia",
+"brand": "Dacia",
 "models":[
 "Dokker",
 "Duster",
@@ -341,8 +319,7 @@
 ]
 },
 {
-"brand": 
-"Daihatsu",
+"brand": "Daihatsu",
 "models":[
 "Charade",
 "Copen",
@@ -355,8 +332,7 @@
 ]
 },
 {
-"brand": 
-"Dodge",
+"brand": "Dodge",
 "models":[
 "Avenger",
 "Caliber",
@@ -370,8 +346,7 @@
 ]
 },
 {
-"brand": 
-"DS Automobiles",
+"brand": "DS Automobiles",
 "models":[
 "DS 3",
 "DS 4",
@@ -381,8 +356,7 @@
 ]
 },
 {
-"brand": 
-"Eli",
+"brand": "Eli",
 "models":[
 "Zero",
 "Ferrari",
@@ -410,8 +384,7 @@
 ]
 },
 {
-"brand": 
-"Fiat",
+"brand": "Fiat",
 "models":[
 "124 Spider",
 "500",
@@ -449,8 +422,7 @@
 ]
 },
 {
-"brand": 
-"Ford",
+"brand": "Ford",
 "models":[
 "B-MAX",
 "C-MAX",
@@ -484,23 +456,20 @@
 ]
 },
 {
-"brand": 
-"GMC",
+"brand": "GMC",
 "models":[
 "Andere",
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Graf Carello",
+"brand": "Graf Carello",
 "models":[
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Honda",
+"brand": "Honda",
 "models":[
 "Accord",
 "CR-V",
@@ -522,16 +491,14 @@
 ]
 },
 {
-"brand": 
-"Hummer",
+"brand": "Hummer",
 "models":[
 "Hummer",
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Hyundai",
+"brand": "Hyundai",
 "models":[
 "Accent",
 "Atos",
@@ -568,8 +535,7 @@
 ]
 },
 {
-"brand": 
-"Infiniti",
+"brand": "Infiniti",
 "models":[
 "EX",
 "FX",
@@ -586,8 +552,7 @@
 ]
 },
 {
-"brand": 
-"IVECO",
+"brand": "IVECO",
 "models":[
 "Daily",
 "Massif",
@@ -595,15 +560,13 @@
 ]
 },
 {
-"brand": 
-"JAC",
+"brand": "JAC",
 "models":[
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Jaguar",
+"brand": "Jaguar",
 "models":[
 "Daimler",
 "E-Pace",
@@ -624,8 +587,7 @@
 ]
 },
 {
-"brand": 
-"Jeep",
+"brand": "Jeep",
 "models":[
 "Avenger",
 "CJ",
@@ -641,8 +603,7 @@
 ]
 },
 {
-"brand": 
-"KIA",
+"brand": "KIA",
 "models":[
 "Carens",
 "Carnival",
@@ -667,16 +628,14 @@
 ]
 },
 {
-"brand": 
-"KTM",
+"brand": "KTM",
 "models":[
 "X-Bow",
 "Sonstige"
 ]
 },
 {
-"brand": 
-"Lada",
+"brand": "Lada",
 "models":[
 "Taiga",
 "Vesta",
@@ -684,8 +643,7 @@
 ]
 },
 {
-"brand": 
-"Lamborghini",
+"brand": "Lamborghini",
 "models":[
 "Aventador",
 "Diablo",
@@ -696,8 +654,7 @@
 ]
 },
 {
-"brand": 
-"Lancia",
+"brand": "Lancia",
 "models":[
 "Dedra",
 "Delta",
@@ -714,8 +671,7 @@
 ]
 },
 {
-"brand": 
-"Land Rover",
+"brand": "Land Rover",
 "models":[
 "Defender",
 "Discovery",
@@ -729,8 +685,7 @@
 ]
 },
 {
-"brand": 
-"Lexus",
+"brand": "Lexus",
 "models":[
 "CT",
 "ES",
@@ -749,8 +704,7 @@
 ]
 },
 {
-"brand": 
-"Lincoln",
+"brand": "Lincoln",
 "models":[
 "Continental",
 "Town Car",
@@ -758,8 +712,7 @@
 ]
 },
 {
-"brand": 
-"Lotus",
+"brand": "Lotus",
 "models":[
 "Elise",
 "Esprit",
@@ -769,15 +722,13 @@
 ]
 },
 {
-"brand": 
-"Mahindra",
+"brand": "Mahindra",
 "models":[
 "Sonstige"
 ]
 },
 {
-"brand": 
-"MAN",
+"brand": "MAN",
 "models":[
 "TGE",
 "Maserati",
@@ -794,8 +745,7 @@
 ]
 },
 {
-"brand": 
-"Maybach",
+"brand": "Maybach",
 "models":[
 "Maybach",
 "Mazda",
@@ -829,8 +779,7 @@
 ]
 },
 {
-"brand": 
-"McLaren",
+"brand": "McLaren",
 "models":[
 "600LT",
 "650S",
@@ -839,8 +788,7 @@
 ]
 },
 {
-"brand": 
-"Mercedes-Benz",
+"brand": "Mercedes-Benz",
 "models":[
 "190",
 "A-Klasse",
@@ -885,16 +833,14 @@
 ]
 },
 {
-"brand": 
-"Mercury",
+"brand": "Mercury",
 "models":[
 "Grand Marquis",
 "Sonstige"
 ]
 },
 {
-"brand": 
-"MG",
+"brand": "MG",
 "models":[
 "EHS",
 "MG",
@@ -909,8 +855,7 @@
 ]
 },
 {
-"brand": 
-"Microcar",
+"brand": "Microcar",
 "models":[
 "DUE",
 "M.GO",
@@ -919,8 +864,7 @@
 ]
 },
 {
-"brand": 
-"MINI",
+"brand": "MINI",
 "models":[
 "Cabrio",
 "Clubman",
@@ -933,8 +877,7 @@
 ]
 },
 {
-"brand": 
-"Mitsubishi",
+"brand": "Mitsubishi",
 "models":[
 "3000",
 "ASX",
@@ -956,8 +899,7 @@
 ]
 },
 {
-"brand": 
-"Morgan",
+"brand": "Morgan",
 "models":[
 "Morgan 4/4",
 "Morgan Aero 8",
@@ -968,8 +910,7 @@
 ]
 },
 {
-"brand": 
-"Nissan",
+"brand": "Nissan",
 "models":[
 "100 NX",
 "200 SX",
@@ -1005,8 +946,7 @@
 ]
 },
 {
-"brand": 
-"Opel",
+"brand": "Opel",
 "models":[
 "Adam",
 "Agila",
@@ -1040,8 +980,7 @@
 ]
 },
 {
-"brand": 
-"Peugeot",
+"brand": "Peugeot",
 "models":[
 "1007",
 "106",
@@ -1080,8 +1019,7 @@
 ]
 },
 {
-"brand": 
-"Polestar",
+"brand": "Polestar",
 "models":[
 "2",
 "3",
@@ -1089,8 +1027,7 @@
 ]
 },
 {
-"brand": 
-"Pontiac",
+"brand": "Pontiac",
 "models":[
 "Firebird",
 "Trans Sport",
@@ -1098,8 +1035,7 @@
 ]
 },
 {
-"brand": 
-"Porsche",
+"brand": "Porsche",
 "models":[
 "718",
 "911",
@@ -1118,8 +1054,7 @@
 ]
 },
 {
-"brand": 
-"Puch",
+"brand": "Puch",
 "models":[
 "500",
 "Puch G",
@@ -1127,8 +1062,7 @@
 ]
 },
 {
-"brand": 
-"Renault",
+"brand": "Renault",
 "models":[
 "Arkana",
 "Avantime",
@@ -1162,8 +1096,7 @@
 ]
 },
 {
-"brand": 
-"Rolls-Royce",
+"brand": "Rolls-Royce",
 "models":[
 "Ghost",
 "Phantom",
@@ -1171,8 +1104,7 @@
 ]
 },
 {
-"brand": 
-"Rover",
+"brand": "Rover",
 "models":[
 "200",
 "600",
@@ -1181,8 +1113,7 @@
 ]
 },
 {
-"brand": 
-"Saab",
+"brand": "Saab",
 "models":[
 "9-3",
 "9-5",
@@ -1192,8 +1123,7 @@
 ]
 },
 {
-"brand": 
-"Seat",
+"brand": "Seat",
 "models":[
 "Alhambra",
 "Altea",
@@ -1213,8 +1143,7 @@
 ]
 },
 {
-"brand": 
-"Skoda",
+"brand": "Skoda",
 "models":[
 "Citigo",
 "Enyaq",
@@ -1233,8 +1162,7 @@
 ]
 },
 {
-"brand": 
-"Smart",
+"brand": "Smart",
 "models":[
 "crossblade",
 "forfour",
@@ -1244,8 +1172,7 @@
 ]
 },
 {
-"brand": 
-"SsangYong",
+"brand": "SsangYong",
 "models":[
 "Actyon",
 "Korando",
@@ -1273,8 +1200,7 @@
 ]
 },
 {
-"brand": 
-"Suzuki",
+"brand": "Suzuki",
 "models":[
 "Across",
 "Alto",
@@ -1298,8 +1224,7 @@
 ]
 },
 {
-"brand": 
-"Tesla",
+"brand": "Tesla",
 "models":[
 "Model 3",
 "Model S",
@@ -1310,8 +1235,7 @@
 ]
 },
 {
-"brand": 
-"Toyota",
+"brand": "Toyota",
 "models":[
 "4-Runner",
 "Auris",
@@ -1345,8 +1269,7 @@
 ]
 },
 {
-"brand": 
-"Volvo",
+"brand": "Volvo",
 "models":[
 "C30",
 "C70",
@@ -1373,8 +1296,7 @@
 ]
 },
 {
-"brand": 
-"VW",
+"brand": "VW",
 "models":[
 "Arteon",
 "Beetle",
